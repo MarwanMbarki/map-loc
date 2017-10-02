@@ -1,0 +1,2 @@
+$(document).ready(function(){$(".add-img").click(function(){console.log("Its owrking !"),$(".marker").draggable();var o=$(".marker").position();console.log("left: "+o.left+",top: "+o.top),$(".pos").html("left: "+o.left+",top: "+o.top)}),$(".marker").draggable();var o=$(".marker").position();console.log("left: "+o.left+",top: "+o.top)});
+//# sourceMappingURL=custom-dist.js.map
