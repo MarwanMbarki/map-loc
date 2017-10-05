@@ -1,7 +1,7 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: MARWAN M
+ * User: MARWAN MNARKI
  * Date: 01/10/2017
  * Time: 22:37
  */
@@ -11,7 +11,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Page Title -->
-    <title>Map Location - MARWAN MBARKI</title>
+    <title>Map Location - COPYRIGHT - MARWAN MBARKI</title>
     <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
     <script src="js/bootstrap.js"></script>
@@ -32,6 +32,7 @@
     <div class="row">
         <div class="col-md-6">
             <h1>ADD NEW LOCATION</h1>
+            <p>Just Drag the marker to the right position and hit save and we will do the rest</p>
             <p class="pos"></p>
         </div>
         <div class="col-md-6 add-img">
