@@ -37,6 +37,9 @@
             <div class="alert alert-success" style="display: none;">
               <strong>Success!</strong> Location Added To DB.
             </div>
+            <div class="alert alert-danger" style="display: none;">
+              <strong>Success!</strong> Location Added To DB.
+            </div>
         </div>
         
         <div class="col-md-6 add-img" data-toggle="tooltip" title="Add New Location">
