@@ -35,7 +35,7 @@
             <p>Just Drag the marker to the right position and hit save and we will do the rest</p>
             <p class="pos"></p>
         </div>
-        <div class="col-md-6 add-img">
+        <div class="col-md-6 add-img" data-toggle="tooltip" title="Add New Location">
             <a href="#!"><img src="img/add-button.png" alt=""></a>
         </div>
     </div>
@@ -47,7 +47,7 @@
         </div>
 
     </div>
-    <div class="row save-btn">
+    <div class="row save-btn" data-toggle="tooltip" title="Save Your Location !">
         <a href="#!"><img src="img/save-folder.png" alt=""></a>
     </div>
 </div>
