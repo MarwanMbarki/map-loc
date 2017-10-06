@@ -22,7 +22,7 @@
     <!-- Bootstrap stylesheet -->
     <link rel="stylesheet" href="css/bootstrap.min.css" crossorigin="anonymous">
     <link rel="stylesheet" href="css/bootstrap.css" crossorigin="anonymous">
-    <link rel="stylesheet" href="css/bootstrap-theme.min.css" crossorigin="anonymous">
+    <!-- <link rel="stylesheet" href="css/bootstrap-theme.min.css" crossorigin="anonymous"> -->
     <!-- Main Stylesheet -->
 <!--    <link rel="stylesheet" type="text/css" href="css/style.css">-->
     <link rel="stylesheet" type="text/css" href="css/style-dist.css">
@@ -32,9 +32,13 @@
     <div class="row">
         <div class="col-md-6">
             <h1>ADD NEW LOCATION</h1>
-            <p>Just Drag the marker to the right position and hit save and we will do the rest</p>
+            <p>Just Drag the marker to the position of your choice.</p>
             <p class="pos"></p>
+            <div class="alert alert-success" style="display: none;">
+              <strong>Success!</strong> Location Added To DB.
+            </div>
         </div>
+        
         <div class="col-md-6 add-img" data-toggle="tooltip" title="Add New Location">
             <a href="#!"><img src="img/add-button.png" alt=""></a>
         </div>
@@ -42,7 +46,7 @@
     <div class="row map">
         <div class="map-img">
             <div class="marker">
-                <a href="#!"><img src="img/marker.png" alt=""></a>
+                <a href="#!" class="add_marker"><!-- <img src="img/marker.png" alt=""> --></a>
             </div>
         </div>
 
