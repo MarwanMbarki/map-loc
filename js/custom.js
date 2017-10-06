@@ -1,6 +1,6 @@
 /**
  * Created by MARWAN M on 01/10/2017.
- * FUNCTION TO UNSERT NEW LOCATION
+ * FUNCTION TO ADD NEW LOCATION
  */
 $(document).ready(function () {
     $(".add-img").click(function () {
