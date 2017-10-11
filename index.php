@@ -21,9 +21,6 @@
     <!-- Bootstrap stylesheet -->
     <link rel="stylesheet" href="css/bootstrap.min.css" crossorigin="anonymous">
     <link rel="stylesheet" href="css/bootstrap.css" crossorigin="anonymous">
-    <!-- <link rel="stylesheet" href="css/bootstrap-theme.min.css" crossorigin="anonymous"> -->
-    <!-- Main Stylesheet -->
-<!--    <link rel="stylesheet" type="text/css" href="css/style.css">-->
     <link rel="stylesheet" type="text/css" href="css/style-dist.css">
 </head>
 <body>
