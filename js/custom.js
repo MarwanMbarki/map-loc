@@ -22,7 +22,7 @@ $(document).ready(function () {
         var p = $(".add_marker");
         var position = p.position();
         console.log('left: ' + position.left + ',top: ' + position.top); 
-        $(".alert-success").html("data insert successfully, Left: "+position.left + ',Top: ' +position.top).fadeIn('slow');
+        $(".alert-success").html("Data insert successfully, Left: "+position.left + ',Top: ' +position.top).fadeIn('slow');
         $('.alert-success').delay(4000).fadeOut('slow');
         $('#theImg').remove();
         }
