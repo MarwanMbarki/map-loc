@@ -3,7 +3,7 @@
  * FUNCTION TO ADD NEW LOCATION
  */
 $(document).ready(function () {
-    //ONCLICK ADD NEW NEW MARKER TO THE MAP
+    //ON CLICK ADD NEW NEW MARKER TO THE MAP
     $(".add-img").click(function () {
     $('.add_marker').prepend('<img id="theImg" src="img/marker.png" />')
     });
