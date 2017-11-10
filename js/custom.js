@@ -15,7 +15,7 @@ $(document).ready(function () {
     var position = p.position();
     console.log('left: ' +position.left + ',top: ' +position.top);
 
-    // ONCLICK SAVE LOCATION TO DATABASE
+    // ON CLICK SAVE LOCATION TO DATABASE
      $(".save-btn").click(function () {
         if ($('#theImg') [0]){
         console.log('saved !');
