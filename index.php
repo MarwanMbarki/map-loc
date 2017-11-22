@@ -28,7 +28,7 @@
     <div class="row">
         <div class="col-md-6">
             <h1>ADD NEW LOCATION</h1>
-            <p>Just Drag the marker Location.</p>
+            <p>Drag the marker Location.</p>
             <p class="pos"></p>
             <div class="alert alert-success" style="display: none;">
               <strong>Success!</strong> Location Added To DB.
