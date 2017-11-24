@@ -34,7 +34,7 @@
               <strong>Success!</strong> Location Added To DB.
             </div>
             <div class="alert alert-danger" style="display: none;">
-              <strong>Success!</strong> Location Added To DB.
+              <strong>Success!</strong> Location Added To Database.
             </div>
         </div>
         
